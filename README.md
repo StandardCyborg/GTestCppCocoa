@@ -40,6 +40,5 @@ See also the GoogleTest pod
 ## Development
 
 This repo contains a single Podspec file.  To modify, just edit the 
-Podspect and use `pod repo push MyRepo GTestCpp.podspec.json --allow-warnings --use-libraries --verbose`.
-
+Podspect and use `pod repo push MyRepo GTestCpp.podspec.json --use-libraries`.
 
